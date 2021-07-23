@@ -9,7 +9,6 @@ export function App() {
 
   function handleOpenNewTransactionModal() {
     setIsNewTransactionModalOpen(true);
-    console.log('abriu')
   }
 
   function handleCloseNewTransactionModal() {
